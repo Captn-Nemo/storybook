@@ -1,0 +1,15 @@
+.inner {
+  transition: all 0.2s ease;
+  width: 20rem;
+  /* height: 20rem; */
+  box-shadow: 5px 5px 14px 13px #dadada;
+  margin: auto;
+  margin-top: 2.7rem;
+}
+
+.inner:hover {
+  z-index: 2;
+  transform: scale(1.05);
+  transition: all 0.5s ease;
+  box-shadow: 2px 1px 4px 2px #999;
+}

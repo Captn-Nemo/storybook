@@ -1,0 +1,25 @@
+.navigation {
+  height: 10vh;
+  box-shadow: 10px 10px 10px #d0d0d0;
+  background: white !important;
+}
+.navitem {
+  text-transform: uppercase;
+  font-weight: bold !important;
+  color: black !important;
+  font-size: small !important;
+  letter-spacing: 0.1em !important;
+}
+.navitem:hover {
+  color: #fdc700 !important;
+}
+.collapse-nav {
+  box-shadow: 10px 10px 10px #d0d0d0;
+}
+.custominput {
+  border: 0.4rem solid #fdc700 !important ;
+  border-radius: 2rem !important;
+}
+.icon {
+  font-size: large;
+}
